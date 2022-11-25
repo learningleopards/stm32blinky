@@ -7,6 +7,6 @@ Firstly, we installed the STM32CubeIDE and configured the board which is NUCLEO-
 
 The code is saved and we built the project. Once the compilation is done with 0 error, we uploaded the code into the board (NUCLEO-F446RE) and the LED on the board began to blink 1 second and off for 1 second.
 ![image](https://user-images.githubusercontent.com/92903308/203847882-590b8e42-fc1a-4f6e-81b2-97e29b498215.png)
-- 💞️ **Youtube:** 
+- 💞️ **Youtube:** https://www.youtube.com/watch?v=Hfn1fckfhYA
 - 📫**References:** https://www.st.com/en/development-tools/stm32cubeide.html, https://www.youtube.com/watch?v=oAwZ0cjlmN8 
  
